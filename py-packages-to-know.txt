@@ -1,0 +1,26 @@
+Packages to Know:
+-----------------
+requests
+  - summary: simplifies making API calls 
+  - install with: python3 -m pip install requests
+  
+json
+  - summary: decode and write out json
+  - installs with Python (standard library)
+  
+yaml
+  - summary: decode and write out yaml
+  - install with: python3 -m pip install pyyaml
+  
+matplotlib
+  - summary: create visual graphs (pdf & png)
+  - install with: python3 -m pip install matplotlib
+  
+os
+  - summary: work with low level operating system commands
+  - installs with Python (standard library)
+  
+shutil
+  - summary: work with shell
+  - installs with Python (standard library)
+  
